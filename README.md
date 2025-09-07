@@ -1,2 +1,17 @@
-# PF-Lab-3-25K-3071
-I’m a Software Engineering student passionate about learning how technology solves real-world problems.I’m especially interested in web development, AI, and open-source projects. I love exploring new tools, building small projects, and continuously improving my coding skills.
+# My First Project
+
+This is my first GitHub project!
+
+## Steps to Finish
+
+1. Edit the README file  
+2. Add the required markdown  
+3. Commit and push the changes
+
+## Things I Used
+
+- GitHub  
+- VS Code  
+- Markdown
+
+**_This is very important: Don't forget to commit your work!_**
