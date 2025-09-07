@@ -1,17 +1,15 @@
-# My First Project
+# Hello World Project
 
-This is my first GitHub project!
+## Steps
 
-## Steps to Finish
+1. Create a file  
+2. Write some code  
+3. Run it
 
-1. Edit the README file  
-2. Add the required markdown  
-3. Commit and push the changes
+## Tools
 
-## Things I Used
+- Computer  
+- Text Editor  
+- Git
 
-- GitHub  
-- VS Code  
-- Markdown
-
-**_This is very important: Don't forget to commit your work!_**
+**_This is important!_**
